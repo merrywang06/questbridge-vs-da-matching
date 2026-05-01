@@ -1,7 +1,6 @@
 
 """
 QuestBridge vs. Deferred Acceptance Simulation
-ECON 136 Market Design Paper
 
 Purpose:
 This simulation compares a simplified QuestBridge-style matching mechanism
